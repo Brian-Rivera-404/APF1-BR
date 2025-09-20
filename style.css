@@ -1,12 +1,11 @@
+/* estilo1.css */
 body {
-    background-color: lightblue; /* Fondo celeste */
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 50px;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e3f2fd; /* celeste claro */
+  text-align: center;
+  padding-top: 100px;
 }
-
-p {
-    font-size: 20px;
-    color: darkblue;
-    font-weight: bold;
-}
+h1 { color: #0d6efd; } /* color primario */
+p { font-size: 18px; color: #0b3b75; font-weight: bold; }
