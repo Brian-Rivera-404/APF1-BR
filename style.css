@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue; /* Fondo celeste */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+}
